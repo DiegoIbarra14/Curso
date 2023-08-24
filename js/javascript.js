@@ -1,1 +1,5 @@
-alert("Hola amigo estamos en la rama de javasript")
+document.addEventListener("DOMContentLoaded",()=>{
+    alert("Hola desde la rama main")
+
+
+})
