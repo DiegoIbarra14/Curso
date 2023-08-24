@@ -1,5 +1,2 @@
 document.addEventListener("DOMContentLoaded",()=>{
-    alert("Hola desde la rama main")
-
-
-})
+    alert("Hola desde la rama javascript");})
